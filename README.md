@@ -15,8 +15,6 @@ This repository includes:
 * Pretrained models of the proposed 2P-AE<sup>2</sup> and 2P-AE<sup>2</sup>-e2e; and
 * Processed training, validation and testing datasets derived from thorax CT scans and X-ray images.
 
-Code has been tested with Python 3.7, CUDA 10.1 and PyTorch 1.6.
-
 ## Setup
 
 ### Prerequisites
