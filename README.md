@@ -1,4 +1,4 @@
-# End-to-end Adaptive Initialization with Error-awareness for Fully Automatic 2-D/3-D Rigid Registration in Thoracic Surgeries
+# End-to-end Adaptive Error-aware Initialization for Fully Automatic 2-D/3-D Rigid Registration in Thoracic Surgeries
 
 by Lilu Liu, Yanmei Jiao, Zhou An, Honghai Ma, Chunlin Zhou, Haojian Lu, Jian Hu, Rong Xiong, Yue Wang.
 
