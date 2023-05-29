@@ -20,7 +20,7 @@ This repository includes:
 ### Prerequisites
 * Ubuntu $\geq$ 16.04
 * Python $\geq$ 3.7
-* CUDA $\geq$ 10.2
+* CUDA $\geq$ 10.1
 
 
 ### Installation
